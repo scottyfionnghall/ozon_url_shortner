@@ -2,7 +2,7 @@
 
 ##  Описание
 
-API написаный на Go, с использованием pq и go-cache для работы с PostgreSQL и in-memmory данными.
+API для сокращения ссылок, написаный на Go, с использованием pq и go-cache для работы с PostgreSQL и in-memmory данными.
 
 ## Endpoints
 
