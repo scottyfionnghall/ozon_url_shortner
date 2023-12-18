@@ -124,7 +124,7 @@ go test ./cmd/api
 
 ![](https://imgur.com/JHHMcCm.png)
 
-Мой JavaScript для POST запросов:
+Небольшой скрипт на JavaScript для тестирования POST запросов:
 
 ```javascript
 import http from "k6/http";
